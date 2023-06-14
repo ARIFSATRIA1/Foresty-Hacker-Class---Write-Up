@@ -3,4 +3,8 @@ id name : arifsatria5554
 
 # List Challenges 
 
+
 # Week 1
+
+| Category | Challenge |
+| --- | --- |
