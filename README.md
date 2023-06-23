@@ -16,6 +16,6 @@ id name : arifsatria5554
 
 | Category | Challenge |
 | --- | --- |
-| Web Exploitation | [Sanity Check](Sanity_Check.md)
-| Web Exploitation | [Fortune Cookies](Fortune_Cookies.md)
-| Web Exploitation | [Mongkey](Mongkey.md)
+| Cryptography | [Vigenere](Sanity_Check.md)
+| Cryptography | [RSA](Fortune_Cookies.md)
+| Cryptography | [xorr](Mongkey.md)
