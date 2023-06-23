@@ -7,7 +7,7 @@ id name : arifsatria5554
 # Week 1
 
 | Category | Challenge |
-| Web Explotation | [Sanity Check](Sanity Check.md)
-| Web Explotation | [Fortune Cookies] 
-| Web Explotation | [Mongkey]  
-| Web Explotation |  |
+| --- | --- |
+| Web Exploitation | [Sanity Check](Sanity_Check.md)
+| Web Exploitation | [Fortune Cookies](Fortune_Cookies.md)
+| Web Exploitation | [Mongkey](Mongkey.md)
